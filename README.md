@@ -1,5 +1,5 @@
-# BASIC WWW / HTML / CSS / UI / UX
-Documentació relativa a la creació en navegador
+# BASIC WWW 
+Documentació relativa a la creació als navegadors: html, css, ui and ux
 
 ## Cheat Sheet
 * [HTML5 - tags](https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf) , [HTML5 - develop](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
