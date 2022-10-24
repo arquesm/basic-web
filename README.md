@@ -10,3 +10,6 @@ Documentació relativa a la creació en navegador
 ## Exercises online
 * [FreeCodecamp](https://www.freecodecamp.org/)
 * [Flexbox Froggy](https://flexboxfroggy.com/)
+
+## Bibliografia
+* [Demian Conrad, Silvio Lorusso, 2021, Graphic-Design in post-digital age, : Onomatopee & HEAD – Genève (HES-SO)](https://api.head-publishing.ch/uploads/GRAPHIC_DESIGN_IN_THE_POST_DIGITAL_AGE_d299efb5a0_d84e2e2e0a.pdf)
