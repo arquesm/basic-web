@@ -1,4 +1,4 @@
-# basic-web
+# BASIC WWW / HTML / CSS / UI / UX
 Documentació relativa a la creació en navegador
 
 ## Cheat Sheet
