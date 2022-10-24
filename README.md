@@ -17,3 +17,12 @@ Documentació relativa a la creació als navegadors: html, css, ui and ux
 ## XXSS
 ### Twitter
 * @_georgemoller
+
+## References
+### WebDesign
+* https://www.siteinspire.com/
+* https://www.awwwards.com/
+
+### Portfolios
+* https://readymag.com/examples
+* https://cargo.site/In-Use
